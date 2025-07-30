@@ -1,0 +1,97 @@
+{
+  "1": {
+    "title": "HAVA",
+    "images": [
+      "./images/hava/1.png",
+      "./images/hava/2.png",
+      "./images/hava/3.png"
+    ],
+    "techs": ["Laravel", "Bootstrap 4", "MySQL", "Lightbox"],
+    "description": "<p>Platform B2B e-commerce yang dirancang untuk skalabilitas dan performa tinggi. Fitur termasuk manajemen produk, keranjang belanja, proses checkout yang aman, Request for Quotation, dan dasbor admin untuk mengelola pesanan dan pelanggan.</p?",
+    "liveUrl": "https://hava.id",
+    "repoUrl": "#",
+    "status": "perusahaan"
+  },
+  "2": {
+    "title": "Greenara",
+    "images": ["./images/greenara/1.png"],
+    "techs": ["Flutter", "Laravel", "Bootstrap 4", "MySQL", "Faspay API", "RajaOngkir API"],
+    "description": "<p>Aplikasi toko online untuk membeli produk sayur dan buah. Di dalam Aplikasi ini terdapat beberapa fitur diantaranya adalah fitur pencarian produk, keranjang belanja, notifikasi, kategori produk, card, recipe, faq dan juga profile.</p>",
+    "liveUrl": "https://cyberlabs.co.id/greenara-portfolio-aplikasi-mobile-cyberlabs/",
+    "repoUrl": "#",
+    "status": "perusahaan"
+  },
+  "3": {
+    "title": "HidupBahagia.ID",
+    "images": ["https://cyberlabs.co.id/wp-content/uploads/2023/01/screencapture-hidupbahagia-id-products-actifed-exp-sirup-hijau-60ml-per-botol-5-2022-09-07-08_13_49-768x962.png"],
+    "techs": ["Laravel", "Bootstrap 4", "MySQL", "Faspay API", "RajaOngkir API"],
+    "description": "<p>Aplikasi toko online untuk membeli produk obat-obatan. Di dalamnya terdiri dari beberapa halaman utama seperti halaman beranda, produk, promo, info kesehatan, resep, dan tentang, disamping itu website ini dilengkapi pula dengan berbagai macam sistem pembayaran seperti transfer antar bank, kartu kredit, virtual account dan mini market.</p>",
+    "liveUrl": "https://cyberlabs.co.id/hidupbahagia-id-portfolio-website-cyberlabs/",
+    "repoUrl": "#",
+    "status": "perusahaan"
+  },
+  "4": {
+    "title": "Streamr",
+    "images": [
+      "https://jejakanaktekkom.pages.dev/assets/images/posts//membuat-live-stream-website-seperti-twitch/img4.png",
+      "https://jejakanaktekkom.pages.dev/assets/images/posts//membuat-live-stream-website-seperti-twitch/img6.png",
+      "https://jejakanaktekkom.pages.dev/assets/images/posts//membuat-live-stream-website-seperti-twitch/img7.png",
+      "https://jejakanaktekkom.pages.dev/assets/images/posts//membuat-live-stream-website-seperti-twitch/img8.png",
+      "https://jejakanaktekkom.pages.dev/assets/images/posts//membuat-live-stream-website-seperti-twitch/img9.png"
+    ],
+    "techs": ["NextJS", "Tailwind CSS", "Nginx Ingress", "Docker", "HLS Streaming"],
+    "description": "<p>Website clone twitch untuk video streaming dan realtime livechat. Membuat proyek ini menggunakan Next.js dan Tailwind CSS untuk frontend, serta Nginx dan Docker untuk deployment. Dibuat proyek ini sebaga landasan untuk mempelajari dasar Vdeo Streaming Tech, banyak yg dipelajari seperti setup ingest server, protocol HLS untuk video streaming, implementasi websocket untuk chat dan viewer count, dll.</p>",
+    "liveUrl": "#",
+    "repoUrl": "https://github.com/cpkal/twitch-clone",
+    "status": "personal"
+  },
+  "5": {
+    "title": "Cola Beverage",
+    "images": [
+      "./images/cola/1.png",
+      "./images/cola/2.png",
+      "./images/cola/3.png"
+    ],
+    "techs": ["Vite", "Tailwind CSS", "GSAP", "Three.js"],
+    "description": "<p>Website interaktif untuk mempromosikan produk minuman cola. Dibuat dengan Vite dan Tailwind CSS untuk frontend, serta GSAP dan Three.js untuk animasi dan efek 3D.</p>",
+    "liveUrl": "https://cpkal.github.io/cola-landing-page",
+    "repoUrl": "https://github.com/cpkal/cola-landing-page",
+    "status": "personal"
+  },
+  "6": {
+    "title": "Tunas Toyota Cimindi",
+    "images": ["https://cyberlabs.co.id/wp-content/uploads/2023/01/bawah-35-665x1024.png"],
+    "techs": ["Laravel", "Bootstrap 4", "MySQL", "Twillio WhatsApp API"],
+    "description": "<p>Website ini dikembangkan dengan sistem Custome yang memiliki konsep landing page atau 1 halaman muka yang berisi informasi mengenai fitur pencarian unit mobil, daftar sales, dan info social media. Tidak hanya itu fitur utama dari website ini adalah memberikan notifikasi kepada team sales melalui whatsapps jika ada pengunjung yang menggunakan fitur pencarian mobile yang telah disediakan.</p>",
+    "liveUrl": "#",
+    "repoUrl": "#",
+    "status": "perusahaan"
+  },
+  "7": {
+    "title": "Khazanah Express",
+    "images": ["https://cyberlabs.co.id/wp-content/uploads/2023/01/bawah-27-768x649.png"],
+    "techs": ["Laravel", "Bootstrap 4", "MySQL"],
+    "description": "<p>Website ini memiliki fitur 2 bahasa yaitu bahasa inggris dan bahasa Indonesia, tidak hanya itu dilengkapi dengan standar SEO On page sehingga sangat mudah untuk diindex oleh Google dan tentunya desain mobile yang responsif yang sangat fleksibel ketika dibuka di layar handphone sekalipun.</p>",
+    "liveUrl": "https://cyberlabs.co.id/khazanah-express-portfolio-website-cyberlabs/",
+    "repoUrl": "#",
+    "status": "perusahaan"
+  },
+  "8": {
+    "title": "Kraviti",
+    "images": ["https://cyberlabs.co.id/wp-content/uploads/2023/01/bawah-28-768x649.png"],
+    "techs": ["Laravel", "Bootstrap 4", "CSS"],
+    "description": "<p>Kraviti Custom Bag adalah sebuah website profile untuk menampilkan layanan pembuatan tas custom khusus untuk brand kraviti, dimana website ini dikembangkan dengan sisten landing page 1 kolom.</p>",
+    "liveUrl": "https://kraviti.com/",
+    "repoUrl": "#",
+    "status": "perusahaan"
+  },
+  "9": {
+    "title": "Before We Got Married",
+    "images": ["./images/before-we-got-married/1.png"],
+    "techs": ["HTML", "CSS", "AOS.js"],
+    "description": "<p>Website informasi webinar persiapan pernikahan bersama mentor-mentor yang berpengalaman. menyediakan kelas pembekalan online oleh pemateri Nasional untuk mengetahui persiapan untuk mempercepat kesiapan dalam menjemput pasangan hidupnya.</p>",
+    "liveUrl": "https://eventsaniskaramanunggal.com/",
+    "repoUrl": "#",
+    "status": "perusahaan"
+  }
+}
